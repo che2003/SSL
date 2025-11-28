@@ -1,0 +1,491 @@
+ip,status,note
+34.117.59.81,unknown,no_ocsp_url
+99.83.155.228,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 68c01216180eafcef687a63257a346515dcb0727
+    produced at: n"
+52.20.120.110,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 748580c066c7df37decfbd2937aa031dbeedcd17
+    produced at: n"
+61.135.164.50,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 2b2316811b47898a907aece832d46c8e72f9ce25
+    produced at: n"
+78.194.169.74,error,'NoneType' object has no attribute 'startswith'
+192.99.110.193,unknown,no_ocsp_url
+23.222.130.60,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 748580c066c7df37decfbd2937aa031dbeedcd17
+    produced at: n"
+52.18.94.5,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: d677fe585db30e7d5a90eadab153ffa8ba74cca6
+    produced at: n"
+54.209.211.24,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 748580c066c7df37decfbd2937aa031dbeedcd17
+    produced at: n"
+35.71.161.26,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 1f5292615682547f8166d81d3d0aaa325c87dd08
+    produced at: n"
+172.66.130.136,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 748580c066c7df37decfbd2937aa031dbeedcd17
+    produced at: n"
+157.150.185.49,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 9af32bdacfad4fb62fbb2a48482a12b71b42c124
+    produced at: n"
+185.170.207.139,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: aa5c0544f3d29d7b7d0228033731b93a8270e6e6
+    produced at: n"
+3.17.251.189,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: c8d97868a2d91968d53d72de5f0a3edcb58686a6
+    produced at: n"
+192.0.66.24,unknown,no_ocsp_url
+31.222.75.112,unknown,no_ocsp_url
+23.207.192.111,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: e36674bb70688d2c5d4e0ea64a8f9b37229c8292
+    produced at: n"
+5.188.83.102,unknown,no_ocsp_url
+135.181.136.158,unknown,no_ocsp_url
+54.251.229.102,error,'NoneType' object has no attribute 'startswith'
+18.214.176.153,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: c03152cd5a50c3827c7471cecbe99cf97aeb82e2
+    produced at: n"
+192.0.66.96,unknown,no_ocsp_url
+104.16.80.73,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 9077923567c4ffa8cca9e67bd980797bcc93f938
+    produced at: n"
+13.35.217.12,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 944fd45d8be4a4e2a680fefdd8f900efa3be0257
+    produced at: n"
+185.163.159.5,unknown,"
+error querying ocsp responder
+948f0000:error:10080002:bio routines:bio_lookup_ex:system lib:crypto\bio\bio_addr.c:743:不知道这样的主机。 
+"
+204.63.40.34,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 6a4e50bf98689d5b7b2075d45901794866923206
+    produced at: n"
+81.12.52.70,error,'NoneType' object has no attribute 'startswith'
+13.248.219.127,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 55d9185fd21ccc01e158b4beabd9554201d72e02
+    produced at: n"
+54.69.127.167,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 748580c066c7df37decfbd2937aa031dbeedcd17
+    produced at: n"
+185.207.236.209,unknown,no_ocsp_url
+18.163.234.149,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 944fd45d8be4a4e2a680fefdd8f900efa3be0257
+    produced at: n"
+189.126.100.6,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 96fcbd1eb525e1f06e65f91e6826f363c7384a6b
+    produced at: n"
+5.152.194.146,unknown,no_ocsp_url
+172.66.135.144,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 9077923567c4ffa8cca9e67bd980797bcc93f938
+    produced at: n"
+23.22.10.20,unknown,"
+error querying ocsp responder
+98860000:error:10080002:bio routines:bio_lookup_ex:system lib:crypto\bio\bio_addr.c:743:不知道这样的主机。 
+"
+100.25.136.152,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 748580c066c7df37decfbd2937aa031dbeedcd17
+    produced at: n"
+3.214.124.111,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 748580c066c7df37decfbd2937aa031dbeedcd17
+    produced at: n"
+75.2.38.108,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 68c01216180eafcef687a63257a346515dcb0727
+    produced at: n"
+52.223.21.92,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 8d8c5ec454ad8ae177e99bf99b05e1b8018d61e1
+    produced at: n"
+216.150.1.1,unknown,no_ocsp_url
+144.160.36.42,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 748580c066c7df37decfbd2937aa031dbeedcd17
+    produced at: n"
+217.12.104.100,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: c = us, o = ""starfield technologies, inc."", cn = starfield "
+72.163.4.185,unknown,"
+could not read issuer certificate from c:\users\17325\appdata\local\temp\tmp30rvn9t9\issuer.pem
+f85b0000:error:1608010c:store routines:ossl_store_handle_load_result:unsupported:crypto\store\store_res"
+199.232.198.114,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 860cd046b32d91b6988ff9bcf21c409e454e9f96
+    produced at: n"
+99.83.219.164,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: c03152cd5a50c3827c7471cecbe99cf97aeb82e2
+    produced at: n"
+88.208.57.223,unknown,no_ocsp_url
+151.101.64.223,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 9dcc7524da4f29d89f740b621a578f5487108db5
+    produced at: n"
+40.71.250.191,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: a3b59af516756190fa613065ea6d1aa0bce95896
+    produced at: n"
+13.107.213.52,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 983580c1e999d7c442b18c033a3a565a4e52f006
+    produced at: n"
+104.16.151.136,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: d677fe585db30e7d5a90eadab153ffa8ba74cca6
+    produced at: n"
+76.223.18.25,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: c03152cd5a50c3827c7471cecbe99cf97aeb82e2
+    produced at: n"
+104.18.208.112,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 8a23eb9e6bd7f9375df96d2139769aa167de10a8
+    produced at: n"
+104.16.143.237,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 9077923567c4ffa8cca9e67bd980797bcc93f938
+    produced at: n"
+82.156.59.186,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 7f9dda1a807928e82ca90ad68ddc324fee749d79
+    produced at: n"
+45.60.136.135,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: f7ace935305d13b9bd381b5c6f4c79f253b91a4a
+    produced at: n"
+35.212.28.75,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: e36674bb70688d2c5d4e0ea64a8f9b37229c8292
+    produced at: n"
+104.16.180.118,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 9077923567c4ffa8cca9e67bd980797bcc93f938
+    produced at: n"
+208.94.3.19,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: c = us, o = ""godaddy.com, inc."", cn = go daddy validation a"
+94.76.202.152,unknown,no_ocsp_url
+193.232.150.62,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: d677fe585db30e7d5a90eadab153ffa8ba74cca6
+    produced at: n"
+85.236.99.65,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: b76ba2eaa8aa848c79eab4da0f98b2c59576b9f4
+    produced at: n"
+63.32.246.37,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 81b80e638a891218e5fa3b3b50959fe6e5901385
+    produced at: n"
+162.159.136.232,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 9077923567c4ffa8cca9e67bd980797bcc93f938
+    produced at: n"
+138.1.125.45,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: b76ba2eaa8aa848c79eab4da0f98b2c59576b9f4
+    produced at: n"
+204.68.196.12,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 680d45ca35c2e79a1bf0b384ddd5da7f0b89c111
+    produced at: n"
+34.226.36.51,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: b76ba2eaa8aa848c79eab4da0f98b2c59576b9f4
+    produced at: n"
+82.202.225.240,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: aa5c0544f3d29d7b7d0228033731b93a8270e6e6
+    produced at: n"
+13.248.196.236,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: d677fe585db30e7d5a90eadab153ffa8ba74cca6
+    produced at: n"
+37.59.204.163,unknown,no_ocsp_url
+54.95.87.102,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: c03152cd5a50c3827c7471cecbe99cf97aeb82e2
+    produced at: n"
+104.16.93.52,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: c8d97868a2d91968d53d72de5f0a3edcb58686a6
+    produced at: n"
+213.61.193.204,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: a948cba8d8c2278c332fda66ee1bddc0c3cb0743
+    produced at: n"
+49.7.254.140,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: d677fe585db30e7d5a90eadab153ffa8ba74cca6
+    produced at: n"
+96.47.72.84,unknown,no_ocsp_url
+37.48.253.222,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 8d8c5ec454ad8ae177e99bf99b05e1b8018d61e1
+    produced at: n"
+83.222.28.15,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: d677fe585db30e7d5a90eadab153ffa8ba74cca6
+    produced at: n"
+13.248.160.137,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: c7a3aa8a9d38329c4286e3f89161632134bb2bf0
+    produced at: n"
+192.0.66.51,unknown,no_ocsp_url
+74.112.186.157,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 748580c066c7df37decfbd2937aa031dbeedcd17
+    produced at: n"
+199.232.193.91,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 860cd046b32d91b6988ff9bcf21c409e454e9f96
+    produced at: n"
+23.50.186.25,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: b76ba2eaa8aa848c79eab4da0f98b2c59576b9f4
+    produced at: n"
+199.232.197.91,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 218840e922212db291b6950260c17d38b4ec18a1
+    produced at: n"
+193.25.220.110,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: c = us, o = ""godaddy.com, inc."", cn = go daddy validation a"
+54.39.46.56,error,'NoneType' object has no attribute 'startswith'
+35.75.213.146,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 944fd45d8be4a4e2a680fefdd8f900efa3be0257
+    produced at: n"
+23.195.110.18,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 8a23eb9e6bd7f9375df96d2139769aa167de10a8
+    produced at: n"
+160.17.3.13,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: aeba9433baef374d0bd718ef4ae4a10dbc07b673
+    produced at: n"
+35.241.8.68,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: e622404fa450a97a2d933951afb29d7336f3c1b0
+    produced at: n"
+106.63.103.5,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 0d498f15337bc04fb6fb3a3809fc3415da60dd14
+    produced at: n"
+45.60.63.246,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 218840e922212db291b6950260c17d38b4ec18a1
+    produced at: n"
+34.90.220.148,unknown,no_ocsp_url
+152.1.28.6,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 325f0ad91859ed417121d5ee09e2d9afb2d70fb1
+    produced at: n"
+34.149.146.46,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: e36674bb70688d2c5d4e0ea64a8f9b37229c8292
+    produced at: n"
+20.204.244.192,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 748580c066c7df37decfbd2937aa031dbeedcd17
+    produced at: n"
+49.7.118.241,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 414e8e699df46e25ec78141c7ed7cd1d99cff96b
+    produced at: n"
+75.2.43.168,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: c03152cd5a50c3827c7471cecbe99cf97aeb82e2
+    produced at: n"
+104.17.118.12,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 9077923567c4ffa8cca9e67bd980797bcc93f938
+    produced at: n"
+104.111.200.155,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 8a23eb9e6bd7f9375df96d2139769aa167de10a8
+    produced at: n"
+104.17.110.190,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 9077923567c4ffa8cca9e67bd980797bcc93f938
+    produced at: n"
+192.252.159.138,good,"ocsp response data:
+    ocsp response status: successful (0x0)
+    response type: basic ocsp response
+    version: 1 (0x0)
+    responder id: 0cdb6c82490f4a670ab814ee7ac4485288eb5638
+    produced at: n"
